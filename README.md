@@ -47,17 +47,17 @@ To be able to use Coindex you must have an API key from https://nomics.com. Its 
 
 #### key   [command]
   
-  -set      --sets the API key
-  
-  -show     --Displays the current API key
-  
-  -remove   --Deletes the current API key
+    -set      --sets the API key
+
+    -show     --Displays the current API key
+
+    -remove   --Deletes the current API key
   
 #### check [command]
    
-   -price [Options]
-  
-      --coin=#coinID    -displays the coin of you liking by ID some ID eg.. BTC, ETH
-  
-      --cur=#currency    -default currency is in USD you can change it to like PKG, AUS ...
+     -price [Options]
+
+        --coin=#coinID    -displays the coin of you liking by ID some ID eg.. BTC, ETH
+
+        --cur=#currency    -default currency is in USD you can change it to like PKG, AUS ...
 
