@@ -6,7 +6,7 @@ To be able to use Coindex you must have an API key from https://nomics.com. Its 
 ## installation
 1. clone this repository
   
-      $ git clone '...thisrepo'
+      $ git clone 'https://github.com/Dzokull/coindex.git'
 
 2. initialize npm
 
