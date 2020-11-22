@@ -32,7 +32,7 @@ To be able to use Coindex you must have an API key from https://nomics.com. Its 
 
 6. Check prices...
 
-      $ coindex check prices
+      $ coindex check price
       
 ## usage
 
