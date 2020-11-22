@@ -26,9 +26,9 @@ To be able to use Coindex you must have an API key from https://nomics.com. Its 
 
 5. Set API key..
 
-      $ coindex key set ```press enter```
+      $ coindex key set ```press_enter```
       
-      ? Enter API Key ('https://nomics.com) ###enterKey
+      ? Enter API Key ('https://nomics.com) ```enterAPIKey```
 
 6. Check prices...
 
